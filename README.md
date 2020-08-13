@@ -1,5 +1,5 @@
 <h1 align='center'>Hello git</h1>
-Atualizado nesse momento.
+Atualizado nesse momento. 
 
 --- 
-O mundo é legal, né
+Alteração em busca de novas aprendizagens!
